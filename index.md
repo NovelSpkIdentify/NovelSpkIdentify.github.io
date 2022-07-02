@@ -12,12 +12,20 @@ The video below is used to show the final effect of our speaker identification s
        
 金粉世家 (Diamond Dust Aristocratic Family)
 
-<audio src="waves/有间文库：金粉世家 第49回.wav" controls="controls">wav</audio>
+<audio src="waves/金粉世家.wav" controls="controls">wav</audio>
 
 红楼梦 (The Dream of the Red Chamber) 
 
-<audio src="waves/红楼梦 第八十九回.wav" controls="controls">wav</audio>
+<audio src="waves/红楼梦.wav" controls="controls">wav</audio>
 
+水浒传 (Water Margin) 
+
+<audio src="waves/水浒传.wav" controls="controls">wav</audio>
+
+
+张恨水小说 (Zhang Henshui's Novel) 
+
+<audio src="waves/张恨水小说.wav" controls="controls">wav</audio>
 
 ## Test Dataset
 We provide two kinds of speaker indentification data, namely chapter text and speaker indentification test data, which can be downloaded in the link below:
