@@ -42,6 +42,6 @@ The speaker identification test data is the annotation data including 2296 piece
 * dialogue ：target dialogue
 * context ： dialogue context
 * primary speaker name ： a formal and unique appellation of a character in the novel
-* context speaker name ： a appellation or alias that appears in dialogue context
+* context speaker name ： a appellation or alias of a character that appears in dialogue context
 
 Chapter text contains the text of 41 Chinese novel chapters, and we have used tools to segment the novel text.
