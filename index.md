@@ -10,7 +10,7 @@ The video below is used to show the final effect of our speaker identification s
 
 
        
-<audio src="waves/有间文库：金粉世家 第49回.wav" controls="controls">wav</audio>
+* 金粉世家 (Diamond dust aristocratic family) dialogue id <audio src="waves/有间文库：金粉世家 第49回.wav" controls="controls">wav</audio>
        
 
 ## Test Dataset
