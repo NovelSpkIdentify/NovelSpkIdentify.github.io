@@ -18,10 +18,11 @@ We provide two kinds of speaker indentification data, namely chapter text and sp
 [speaker indentification test data](https://drive.google.com/file/d/1MuqeTzu89wmtNwH7i7CebQlp7cvl3OQv/view?usp=sharing)
 
 The speaker identification test data is the annotation data including 2296 pieces of data of 41 Chinese novel chapters. Each piece of data consists of the following seven parts:
-*dialogue id
-*book id
-*book name
-*dialogue ：target dialogue
-*context ： dialogue context
+
+* dialogue id
+* book id
+* book name
+* dialogue ：target dialogue
+* context ： dialogue context
 *primary speaker name ： a formal and unique appellation of a character in the novel,
 *context speaker name ： a appellation or alias that appears in dialogue context
