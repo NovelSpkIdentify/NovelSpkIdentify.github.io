@@ -28,13 +28,13 @@ The video below is used to show the final effect of our speaker identification s
 <audio src="waves/张恨水小说.wav" controls="controls">wav</audio>
 
 ## Test Dataset
-We provide two kinds of speaker indentification data, namely chapter text and speaker indentification test data, which can be downloaded in the link below:
+Since there is no open-source multi-domain Chinese speaker identification dataset, we select 41 Chinese novel chapters and label them as our evaluation dataset. We provide two kinds of speaker indentification data, namely chapter text and speaker indentification test data, which can be downloaded in the link below:
 
 [chapter text](https://drive.google.com/file/d/1rRVCXCour8DBstN_FxVWR7ZmEsLSwSAi/view?usp=sharing)
 
 [speaker indentification test data](https://drive.google.com/file/d/1MuqeTzu89wmtNwH7i7CebQlp7cvl3OQv/view?usp=sharing)
 
-The speaker identification test data is the annotation data including 2296 pieces of data of 41 Chinese novel chapters. Each piece of data consists of the following seven parts:
+The speaker identification test data is the annotation data including 2296 pieces of data of 41 Chinese novel chapters. Since a character may have multiple appellations/aliases in the novel, we label two kinds of speaker names, namely primary speaker name and context speaker name. In fine-tuning models, we use context speaker name as label for evaluation and training. Each piece of data consists of the following seven parts:
 
 * dialogue id
 * book id
@@ -44,4 +44,4 @@ The speaker identification test data is the annotation data including 2296 piece
 * primary speaker name ： a formal and unique appellation of a character in the novel
 * context speaker name ： a appellation or alias of a character that appears in dialogue context
 
-Chapter text contains the text of 41 Chinese novel chapters, and we have used tools to segment the novel text.
+Chapter text contains the text of 41 Chinese novel chapters, and we have used tools to segment the novel text. The dialogue and context from the speaker identification test data can be found in chapter text.
