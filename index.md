@@ -11,7 +11,7 @@ The video below is used to show the final effect of our speaker identification s
 <audio loop="loop" controls="controls">
        <source src="https://github.com/NovelSpkIdentify/NovelSpkIdentify.github.io/blob/main/waves/%E6%9C%89%E9%97%B4%E6%96%87%E5%BA%93%EF%BC%9A%E9%87%91%E7%B2%89%E4%B8%96%E5%AE%B6%20%E7%AC%AC49%E5%9B%9E.wav" type="audio/mp3"></source></audio>
        
-<audio src="https://github.com/NovelSpkIdentify/NovelSpkIdentify.github.io/blob/main/waves/%E6%9C%89%E9%97%B4%E6%96%87%E5%BA%93%EF%BC%9A%E9%87%91%E7%B2%89%E4%B8%96%E5%AE%B6%20%E7%AC%AC49%E5%9B%9E.wav" controls="controls">wav</audio>
+<audio src="waves/有间文库：金粉世家 第49回.wav" controls="controls">wav</audio>
        
 
 ## Test Dataset
