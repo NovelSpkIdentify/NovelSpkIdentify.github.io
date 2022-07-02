@@ -9,4 +9,18 @@ Identifying the speaker of the dialogue in novels is very important to assign co
 The video below is used to show the final effect of our speaker identification system. We used a text-to-speech (TTS) model for speech synthesis, accompanied by sentiment prediction for dialogues. Our main contribution lies in the speaker identification for different dialogues.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="C:\Users\t-junchenli\speaker identification\waves\红楼梦 第八十九回"></iframe>
-[data](https://drive.google.com/file/d/1rRVCXCour8DBstN_FxVWR7ZmEsLSwSAi/view?usp=sharing)
+
+## Test Dataset
+We provide two kinds of speaker indentification data, namely chapter text and speaker indentification test data, which can be downloaded in the link below
+
+[chapter text](https://drive.google.com/file/d/1rRVCXCour8DBstN_FxVWR7ZmEsLSwSAi/view?usp=sharing)
+[speaker indentification test data](https://drive.google.com/file/d/1MuqeTzu89wmtNwH7i7CebQlp7cvl3OQv/view?usp=sharing)
+
+The speaker identification test data is the annotation data including 2296 pieces of data of 41 Chinese novel chapters. Each piece of data consists of the following seven parts:
+*dialogue id
+*book id
+*book name
+*dialogue ：target dialogue
+*context ： dialogue context
+*primary speaker name ： a formal and unique appellation of a character in the novel,
+*context speaker name ： a appellation or alias that appears in dialogue context
