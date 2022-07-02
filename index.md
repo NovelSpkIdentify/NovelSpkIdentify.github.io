@@ -9,4 +9,4 @@ Identifying the speaker of the dialogue in novels is very important to assign co
 The video below is used to show the final effect of our speaker identification system. We used a text-to-speech (TTS) model for speech synthesis, accompanied by sentiment prediction for dialogues. Our main contribution lies in the speaker identification for different dialogues.
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="C:\Users\t-junchenli\speaker identification\waves\红楼梦 第八十九回"></iframe>
-[data](https://drive.google.com/drive/folders/1CBXu5tNtN5FfaY7v1umXOmo8xNMcVUBH?usp=sharing)
+[data](https://drive.google.com/file/d/1rRVCXCour8DBstN_FxVWR7ZmEsLSwSAi/view?usp=sharing)
