@@ -24,5 +24,5 @@ The speaker identification test data is the annotation data including 2296 piece
 * book name
 * dialogue ：target dialogue
 * context ： dialogue context
-*primary speaker name ： a formal and unique appellation of a character in the novel,
-*context speaker name ： a appellation or alias that appears in dialogue context
+* primary speaker name ： a formal and unique appellation of a character in the novel,
+* context speaker name ： a appellation or alias that appears in dialogue context
