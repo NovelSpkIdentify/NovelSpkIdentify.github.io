@@ -45,3 +45,8 @@ The speaker identification test data is the annotation data including 2296 piece
 * context speaker name ： a appellation or alias of a character that appears in dialogue context
 
 Chapter text contains the text of 41 Chinese novel chapters, and we have used tools to segment the novel text. The dialogue and context from the speaker identification test data can be found in chapter text.
+
+### Part of English test data
+              0000000000000	Title: Peter Pan Chapter I. PETER BREAKS THROUGH All children, except one, grow up.	Narration	Narration
+              0000000000001	They soon know that they will grow up, and the way Wendy knew was this.	Narration	Narration
+              0000000000002	One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother.	Narration	Narration
